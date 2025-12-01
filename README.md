@@ -1,8 +1,8 @@
+  <h3 align="center">◇    D ' H A W K - L A B S   ◇</h3>         
 
-  ◇    D ' H A W K - L A B S   ◇         
+---
 
-
-<h3 align="center">Crystalline: Geometric Code Synthesis Language</h3>
+<h3 align="center">Crystalline: Language</h3>
 
 <h3 align="center">Code Synthesis Through Field Optimization</h3>
 
