@@ -1,4 +1,8 @@
-# Crystalline: Geometric Code Synthesis Language
+
+  ◇    D ' H A W K - L A B S   ◇         
+
+
+<h3 align="center">Crystalline: Geometric Code Synthesis Language</h3>
 
 <h3 align="center">Code Synthesis Through Field Optimization</h3>
 
