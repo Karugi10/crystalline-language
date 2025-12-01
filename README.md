@@ -1,15 +1,11 @@
 # Crystalline: Geometric Code Synthesis Language
 
-<p align="center">
-  <img src="assets/crystalline-architecture.png" alt="Crystalline Architecture" width="800"/>
-</p>
-
 <h3 align="center">Code Synthesis Through Field Optimization</h3>
 
 <p align="center">
-  <a href="https://researchgate.net/publication/[id]"><img src="https://img.shields.io/badge/Paper-ResearchGate-00CCBB?style=for-the-badge" alt="Paper"/></a>
-  <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue?style=for-the-badge" alt="License"/></a>
-  <a href="https://github.com/[user]/crystalline-language/stargazers"><img src="https://img.shields.io/github/stars/[user]/crystalline-language?style=for-the-badge" alt="Stars"/></a>
+  <a href="https://doi.org/10.13140/RG.2.2.31655.00169"><img src="https://img.shields.io/badge/Paper-ResearchGate-00CCBB?style=for-the-badge" alt="Paper"/></a>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/License-Apache 2.0-blue?style=for-the-badge" alt="License"/></a>
+  <a href="https://github.com/Heimdall-Organization/crystalline-language/stargazers"><img src="https://github.com/Heimdall-Organization/crystalline-language?style=for-the-badge" alt="Stars"/></a>
 </p>
 
 <p align="center">
@@ -50,8 +46,8 @@ Treats program structure as a geometric field. Optimizes through:
 
 Explores self-organizing computation through geometric principles. Manifolds adapt their structure based on computational demands.
 
-📄 [Read Intelligent Manifolds paper](https://researchgate.net/publication/[manifolds-id])  
-📂 [View subproject →](intelligent-manifolds/README.md)
+📄 [Read Intelligent Manifolds paper](https://researchgate.net/publication/[manifolds-id])  COMING SOON!
+📂 [View subproject →](intelligent-manifolds/README.md) COMING SOON!
 
 ---
 
@@ -383,33 +379,19 @@ synthesize {
 
 ### Language Specification
 
-- 📘 [Language Specification](specification/language-spec.md) - Full syntax and semantics
-- 📙 [Field Theory Foundation](specification/field-theory.md) - Mathematical basis
-- 📗 [Computational Atoms](specification/computational-atoms.md) - All 56 atoms
-- 📕 [Transformation Rules](specification/transformation-rules.md) - 20+ optimization rules
-- 📔 [Synthesis Algorithm](specification/synthesis-algorithm.md) - Evolution process
-- 📓 [Energy Functionals](specification/energy-functionals.md) - How energy is computed
+- 📘 [Language Specification](https://github.com/Heimdall-Organization/crystalline-language/blob/main/CRYSTALLINE_LANGUAGE_SPEC_v3.1.md) - Full syntax and semantics
+- 📙 [Crystalline Book](https://github.com/Heimdall-Organization/crystalline-language/blob/main/crystalline_book_complete%20(2).md) - The Crystalline Book
 
 ### Tutorials
 
-- 🎓 [Getting Started](docs/getting-started.md) - First synthesis in 5 minutes
-- 🚀 [Language Guide](docs/language-guide.md) - Comprehensive tutorial
-- 🎯 [Optimization Strategies](docs/optimization-strategies.md) - How to write good specs
-- 🔬 [Advanced Synthesis](docs/advanced.md) - Custom atoms and transformations
-- 🧮 [Understanding Energy](docs/understanding-energy.md) - Energy analysis deep-dive
+- 🎓 [Crystalline Language Guide - GPT](https://chatgpt.com/g/g-692d055856e08191a39582afe646984d-crystalline-language-guide) - Onboard quickly with GPT
 
 ### Implementation
 
-- 🐍 [Python Implementation](implementation/python/README.md) - Architecture overview
-- 📚 [API Documentation](docs/api-reference.md) - Python API
-- 🔧 [Extending Crystalline](docs/extending.md) - Add languages/atoms
-- 🧪 [Testing Guide](docs/testing.md) - Validation
-
-### Intelligent Manifolds
-
-- 🌐 [Manifolds Overview](intelligent-manifolds/README.md) - Subproject introduction
-- 📐 [Geometric Structures](intelligent-manifolds/docs/geometric-structures.md) - Self-organizing computation
-- 🔄 [Adaptive Algorithms](intelligent-manifolds/docs/adaptive-algorithms.md) - Dynamic restructuring
+- 🐍 [Crystalline Codegen](https://github.com/Heimdall-Organization/crystalline-language/blob/main/crystalline_codegen_v3.1.py)
+- 📚 [Crystalline Compiler](https://github.com/Heimdall-Organization/crystalline-language/blob/main/crystalline_compiler_v3.1.py)
+- 🔧 [Crystalline Core](https://github.com/Heimdall-Organization/crystalline-language/blob/main/crystalline_core_v3.1.py)
+- 🧪 [Example-Crystalline Dual Track](https://github.com/Heimdall-Organization/crystalline-language/blob/main/crystalline_dual_track_example.py)
 
 ---
 
@@ -584,47 +566,14 @@ A: It's a subproject exploring self-organizing computational structures. See [in
 
 **Abstract:** We present Crystalline, a domain-specific language for code synthesis via geometric field optimization. Program structure is modeled as an electromagnetic field with phases, curvatures, and coupling coefficients. The synthesis engine decomposes templates into computational atoms, then evolves through transformation rules guided by energy minimization. Field architecture optimization uses the golden angle (φ = 137.5°) for phase spacing and variational calculus for curvature minimization. The approach produces deterministic, explainable code generation with novel optimizations discovered through systematic exploration of the transformation space.
 
-**[Read on ResearchGate →](https://researchgate.net/publication/[id])**  
-**[Download PDF →](papers/crystalline_paper.pdf)**
-
----
-
-📄 **Intelligent Manifolds: Adaptive Computational Structures** (20 pages)
-
-**Abstract:** We introduce Intelligent Manifolds, a framework for self-organizing computational structures. Building on Crystalline's geometric foundation, manifolds adapt their topology and coupling based on computational demands. We demonstrate applications to adaptive algorithms, dynamic data structures, and self-optimizing systems.
-
-**[Read on ResearchGate →](https://researchgate.net/publication/[manifolds-id])**  
-**[Download PDF →](papers/intelligent_manifolds_paper.pdf)**  
-**[View subproject →](intelligent-manifolds/README.md)**
-
----
-
-## Citation
-
-```bibtex
-@article{yourname2025crystalline,
-  title={Crystalline: Physics-Guided Evolutionary Code Synthesis},
-  author={Your Name},
-  year={2025},
-  journal={arXiv preprint arXiv:[id]},
-  url={https://github.com/[user]/crystalline-language},
-  note={Programming language specification with Python implementation}
-}
-
-@article{yourname2025manifolds,
-  title={Intelligent Manifolds: Adaptive Computational Structures},
-  author={Your Name},
-  year={2025},
-  journal={arXiv preprint arXiv:[manifolds-id]},
-  url={https://github.com/[user]/crystalline-language/tree/main/intelligent-manifolds}
-}
-```
+**[Read on ResearchGate →](https://doi.org/10.13140/RG.2.2.31655.00169)**  
+**[Download PDF →](https://github.com/Heimdall-Organization/crystalline-language/blob/main/The_Crystalline_Dual_Track_Computational_Framework__Mathematical_Foundations__Semantic_Preservation__and_Connections_to_Geometric_Phase_Calculi%20(1).pdf)**
 
 ---
 
 ## Contributing
 
-We welcome contributions! See [CONTRIBUTING.md](CONTRIBUTING.md).
+We welcome contributions!
 
 **Areas needing help:**
 - Add target languages (Go, Zig, Swift)
@@ -666,24 +615,22 @@ We welcome contributions! See [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## Community
 
-- 💬 [GitHub Discussions](https://github.com/[user]/crystalline-language/discussions)
-- 🐛 [Issues](https://github.com/[user]/crystalline-language/issues)
-- 📣 [Twitter](https://twitter.com/[user])
-- 📧 [Email](mailto:[your-email])
+- 💬 [GitHub Discussions](https://github.com/Heimdall-Organization/crystalline-language/discussions)
+- 🐛 [Issues](https://github.com/Heimdall-Organization/crystalline-language/issues)
+- 📧 [Email](mailto:[theheimdallorganization@gmail.com])
 
 ---
 
 ## Related Projects
 
-- [WPE/TME Language](https://github.com/[user]/wpe-tme-language) - Geometric calculus (shares foundation)
-- [BioGenerative Crystal](https://github.com/[user]/biogenerative-crystal) - Biological modeling
-- [Intelligent Manifolds](intelligent-manifolds/README.md) - Subproject for adaptive computation
+- [WPE/TME Language](https://github.com/Heimdall-Organization/wpe-tme-language) - Geometric calculus (shares foundation)
+- [BioGenerative Crystal](https://github.com/Heimdall-Organization/biogenerative-crystal) - Biological modeling
 
 ---
 
 ## License
 
-MIT License - see [LICENSE](LICENSE)
+Apache 2.0 License - see [LICENSE](LICENSE)
 
 ---
 
@@ -691,11 +638,6 @@ MIT License - see [LICENSE](LICENSE)
   <strong>Code synthesis through geometric principles. Deterministic. Explainable. Systematic.</strong>
 </p>
 
-<p align="center">
-  <a href="specification/language-spec.md">Read Specification →</a> •
-  <a href="docs/getting-started.md">Quick Start →</a> •
-  <a href="intelligent-manifolds/README.md">Intelligent Manifolds →</a>
-</p>
 
 <p align="center">
   ⭐ Star this repo if you believe code synthesis can be deterministic and explainable!
